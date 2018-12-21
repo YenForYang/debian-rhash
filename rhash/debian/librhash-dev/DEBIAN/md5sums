@@ -1,0 +1,7 @@
+6adafb1b2be3ec167535d8d3d8c477bf  usr/include/rhash.h
+be62edd2abd42c9c0c4ca0a0d3b90ee9  usr/include/rhash_torrent.h
+49d846f78ebb3ab46644a60c4e244de3  usr/lib/x86_64-linux-gnu/librhash.a
+65a2285fb119245a674704b47004727e  usr/lib/x86_64-linux-gnu/pkgconfig/librhash.pc
+2c4688715a2efe70ea5f08cb53bc27cb  usr/share/doc/librhash-dev/changelog.Debian.gz
+6ae96343c5dddefe061024018f9ba315  usr/share/doc/librhash-dev/changelog.gz
+0bde61e2c58c017c180b6b75996ff399  usr/share/doc/librhash-dev/copyright

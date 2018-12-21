@@ -1,0 +1,15 @@
+a5a1c6f6d104bd4e3c13bcdb0473f8c1  usr/bin/rhash
+30fd4481554a6445b876033881c1ce18  usr/share/doc/rhash/README.Debian
+2c4688715a2efe70ea5f08cb53bc27cb  usr/share/doc/rhash/changelog.Debian.gz
+6ae96343c5dddefe061024018f9ba315  usr/share/doc/rhash/changelog.gz
+0bde61e2c58c017c180b6b75996ff399  usr/share/doc/rhash/copyright
+47ceaa0be15b0459a75bfef3cc37b94d  usr/share/locale/ca/LC_MESSAGES/rhash.mo
+bcc637171921b1bd0e3e56bf64fd2181  usr/share/locale/de/LC_MESSAGES/rhash.mo
+3cd40f06b9c41859a6b788ba1ea8041e  usr/share/locale/en_AU/LC_MESSAGES/rhash.mo
+a6bf1db1c7d58baeb325070c89f1e07e  usr/share/locale/es/LC_MESSAGES/rhash.mo
+20e16bcb8871dbd13c32cd470a8ab839  usr/share/locale/fr/LC_MESSAGES/rhash.mo
+9a3bb58ed5e1cb9162dd364746f021e3  usr/share/locale/gl/LC_MESSAGES/rhash.mo
+0422f8bf85ccb22e33ad73788b6f7c3e  usr/share/locale/it/LC_MESSAGES/rhash.mo
+cb408dda07dc6ef2f60664752f466fa9  usr/share/locale/ro/LC_MESSAGES/rhash.mo
+4f41ab333f7d2b82e9462a8eea63cbdc  usr/share/locale/ru/LC_MESSAGES/rhash.mo
+a04fabf52cf9278fef19d1e8fe9eda7a  usr/share/man/man1/rhash.1.gz

@@ -1,0 +1,12 @@
+Package: rhash-dbgsym
+Source: rhash
+Version: 1.3.6-3
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian Security Tools <team+pkg-security@tracker.debian.org>
+Installed-Size: 29
+Depends: rhash (= 1.3.6-3)
+Section: debug
+Priority: optional
+Description: debug symbols for rhash
+Build-Ids: 59c07f2a4daed837123b8ce2cff5dd392828e7ce
